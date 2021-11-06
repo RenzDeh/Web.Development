@@ -5,8 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="05774266-2533-4781-9032-cf2a1d7886fd" name="Changes" comment="Upload">
-      <change afterPath="$PROJECT_DIR$/css1/css/Opdracht 4 CSS Labo 2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css1/css/Opdracht4Layout.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,6 +43,12 @@
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\rdehe\OneDrive\Documenten\GitHub\Web.Development\css1\css" />
+      <recent name="C:\Users\rdehe\OneDrive\Documenten\GitHub\Web.Development\css1\css\CSS Labo 1_bestanden" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -62,7 +66,7 @@
       <workItem from="1636208678258" duration="4352000" />
       <workItem from="1636213664309" duration="715000" />
       <workItem from="1636214837197" duration="607000" />
-      <workItem from="1636217449862" duration="1609000" />
+      <workItem from="1636217449862" duration="1969000" />
     </task>
     <task id="LOCAL-00001" summary="Upload">
       <created>1636214057513</created>
@@ -85,7 +89,14 @@
       <option name="project" value="LOCAL" />
       <updated>1636219024998</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Upload">
+      <created>1636219500963</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1636219500963</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
