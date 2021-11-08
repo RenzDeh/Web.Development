@@ -20,6 +20,10 @@ a:hover {
 
 }
 
+.zocial.plus::before {
+    background-image: url("http://cdn.shopify.com/s/files/1/1061/1924/products/Peach_Emoji_grande.png?v=1571606034");
+}
+
 a {
-    background-image: url("http://cdn.shopify.com/s/files/1/1061/1924/products/Peach_Emoji_grande.png?v=1571606034")
+    list-style-image: url("https://cdn.shopify.com/s/files/1/1061/1924/products/Peach_Emoji_grande.png?v=1571606034");
 }
