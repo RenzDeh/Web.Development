@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="05774266-2533-4781-9032-cf2a1d7886fd" name="Changes" comment="Upload">
-      <change beforePath="$PROJECT_DIR$/css1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/css1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css1/css/Opdracht 6 CSS Labo 2.html" beforeDir="false" afterPath="$PROJECT_DIR$/css1/css/Opdracht 6 CSS Labo 2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css1/css/Opdracht6Layout.css" beforeDir="false" afterPath="$PROJECT_DIR$/css1/css/Opdracht6Layout.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,6 +71,8 @@
       <workItem from="1636214837197" duration="607000" />
       <workItem from="1636217449862" duration="5654000" />
       <workItem from="1636364706936" duration="649000" />
+      <workItem from="1636470565033" duration="354000" />
+      <workItem from="1636470937542" duration="309000" />
     </task>
     <task id="LOCAL-00001" summary="Upload">
       <created>1636214057513</created>
