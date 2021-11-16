@@ -1,0 +1,18 @@
+body {
+    font-family: Verdana, serif;
+    background-color: #2F5496;
+    color: #DBDBDB;
+    width: 800px;
+    margin: auto;
+}
+
+li {
+    font-weight: bold;
+}
+
+a {
+    text-decoration: none;
+    color: aqua;
+    background-color: black;
+    margin-right: 0px;
+}

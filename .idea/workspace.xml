@@ -4,7 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="05774266-2533-4781-9032-cf2a1d7886fd" name="Changes" comment="Upload" />
+    <list default="true" id="05774266-2533-4781-9032-cf2a1d7886fd" name="Changes" comment="Upload">
+      <change afterPath="$PROJECT_DIR$/css1/css/CSS Labo 3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css1/css/ImaginaireVrienden.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css1/css/Kalender.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css1/css/Kalender.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css1/css/styles/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML5/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML5/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML5/styles/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/css1/css/ImaginaireVrienden.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/css1/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -81,7 +91,7 @@
       <workItem from="1636470565033" duration="354000" />
       <workItem from="1636470937542" duration="616000" />
       <workItem from="1636923425621" duration="81000" />
-      <workItem from="1637083654043" duration="6931000" />
+      <workItem from="1637083654043" duration="10477000" />
     </task>
     <task id="LOCAL-00001" summary="Upload">
       <created>1636214057513</created>
@@ -167,7 +177,14 @@
       <option name="project" value="LOCAL" />
       <updated>1637090518271</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Upload">
+      <created>1637091314433</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1637091314433</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
