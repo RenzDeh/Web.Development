@@ -1,6 +1,6 @@
 body {
     font-family: Verdana, serif;
-    background-color: #2F5496;
+    background-color: darkblue;
     color: #DBDBDB;
     width: 800px;
     margin: auto;
@@ -8,11 +8,21 @@ body {
 
 li {
     font-weight: bold;
+    font-family: Verdana, serif;
 }
 
 a {
     text-decoration: none;
-    color: aqua;
+    color: #f8f8f8;
     background-color: black;
-    margin-right: 0px;
+    margin-right: 0;
+    font-family: Verdana, serif;
+}
+
+h4 {
+    font-size: 30px;
+    font-weight: bold;
+    text-decoration: underline;
+    margin-top: 5px;
+    color: blueviolet;
 }
