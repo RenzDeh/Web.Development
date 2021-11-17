@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="05774266-2533-4781-9032-cf2a1d7886fd" name="Changes" comment="Upload" />
+    <list default="true" id="05774266-2533-4781-9032-cf2a1d7886fd" name="Changes" comment="Upload">
+      <change afterPath="$PROJECT_DIR$/css1/css/NatureBlogLayout.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css1/css/Opdracht 4 CSS Labo 2.html" beforeDir="false" afterPath="$PROJECT_DIR$/css1/css/Opdracht 4 CSS Labo 2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/css1/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,25 +18,14 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="CSS File" />
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="UPDATE_TYPE" value="REBASE" />
-  </component>
-  <component name="GitSEFilterConfiguration">
-    <file-type-list>
-      <filtered-out-file-type name="LOCAL_BRANCH" />
-      <filtered-out-file-type name="REMOTE_BRANCH" />
-      <filtered-out-file-type name="TAG" />
-      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
-    </file-type-list>
-  </component>
-  <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/css1/index.html" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="ProjectId" id="20534rwQDLwuALKirPTMLTHd5eX" />
   <component name="ProjectViewState">
@@ -80,10 +74,7 @@
       <workItem from="1636364706936" duration="649000" />
       <workItem from="1636470565033" duration="354000" />
       <workItem from="1636470937542" duration="616000" />
-      <workItem from="1636923425621" duration="81000" />
-      <workItem from="1637083654043" duration="10681000" />
-      <workItem from="1637095284568" duration="974000" />
-      <workItem from="1637096982981" duration="353000" />
+      <workItem from="1636532372343" duration="4899000" />
     </task>
     <task id="LOCAL-00001" summary="Upload">
       <created>1636214057513</created>
@@ -141,63 +132,7 @@
       <option name="project" value="LOCAL" />
       <updated>1636471485744</updated>
     </task>
-    <task id="LOCAL-00009" summary="Upload">
-      <created>1636923497704</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1636923497704</updated>
-    </task>
-    <task id="LOCAL-00010" summary="Upload">
-      <created>1637085531695</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1637085531695</updated>
-    </task>
-    <task id="LOCAL-00011" summary="Upload">
-      <created>1637086037584</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1637086037584</updated>
-    </task>
-    <task id="LOCAL-00012" summary="Upload">
-      <created>1637090518271</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1637090518271</updated>
-    </task>
-    <task id="LOCAL-00013" summary="Upload">
-      <created>1637091314433</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1637091314433</updated>
-    </task>
-    <task id="LOCAL-00014" summary="Upload">
-      <created>1637094979027</created>
-      <option name="number" value="00014" />
-      <option name="presentableId" value="LOCAL-00014" />
-      <option name="project" value="LOCAL" />
-      <updated>1637094979027</updated>
-    </task>
-    <task id="LOCAL-00015" summary="Upload">
-      <created>1637096232960</created>
-      <option name="number" value="00015" />
-      <option name="presentableId" value="LOCAL-00015" />
-      <option name="project" value="LOCAL" />
-      <updated>1637096232960</updated>
-    </task>
-    <task id="LOCAL-00016" summary="Upload">
-      <created>1637097015897</created>
-      <option name="number" value="00016" />
-      <option name="presentableId" value="LOCAL-00016" />
-      <option name="project" value="LOCAL" />
-      <updated>1637097015897</updated>
-    </task>
-    <option name="localTasksCounter" value="17" />
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
