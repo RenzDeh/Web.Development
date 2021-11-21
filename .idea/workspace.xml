@@ -4,7 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="05774266-2533-4781-9032-cf2a1d7886fd" name="Changes" comment="Upload" />
+    <list default="true" id="05774266-2533-4781-9032-cf2a1d7886fd" name="Changes" comment="Upload">
+      <change afterPath="$PROJECT_DIR$/css1/css/CSS Labo 4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css1/css/Layout Lorem Ipsum.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css1/css/Layout loungestart.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css1/css/Opdracht Lorem Ipsum Labo 4.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/css1/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,8 +20,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="CSS File" />
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -84,6 +91,9 @@
       <workItem from="1637083654043" duration="10681000" />
       <workItem from="1637095284568" duration="974000" />
       <workItem from="1637096982981" duration="353000" />
+      <workItem from="1637135446314" duration="6837000" />
+      <workItem from="1637415442929" duration="1219000" />
+      <workItem from="1637499297906" duration="10915000" />
     </task>
     <task id="LOCAL-00001" summary="Upload">
       <created>1636214057513</created>
@@ -197,7 +207,14 @@
       <option name="project" value="LOCAL" />
       <updated>1637097015897</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Upload">
+      <created>1637135699266</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1637135699266</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

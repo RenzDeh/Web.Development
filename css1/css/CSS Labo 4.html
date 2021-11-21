@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>CSS Labo 4</title>
+</head>
+<body>
+<h2>CSS Labo 4</h2>
+<h4>Opdracht 1</h4>
+<ul>
+    <li>Inline-block:</li>
+</ul>
+    <img alt="inline-block" src="CSS Labo 4_bestanden/inline block.png" height="90" width="605"/>
+<ul>
+    <li>Block:</li>
+</ul>
+    <img alt="Block" src="CSS Labo 4_bestanden/block.png" height="35" width="605"/>
+<ul>
+    <li>Inline:</li>
+</ul>
+    <img alt="inline" src="CSS Labo 4_bestanden/inline.png" height="899" width="138"/>
+<ul>
+    <li>Voor welke waarden worden de opgegeven width en height genegeerd?
+    </li>
+    <li>Voor welke waarden worden de elementen als woorden op een pagina gezet?
+    </li>
+</ul>
+<h4>Opdracht 2</h4>
+<ul>
+    <li>Vanwaar komen de lege ruimtes tussen blokken die naast elkaar staan?<br>
+    Dit komt door de style 'inline-block'.</li>
+    <li>Resize je browservenster horizontaal en kijk hoe de blokken netjes over de regels verdeeld worden.</li>
+</ul>
+<p>Voor resize:</p>
+    <img alt="resize" src="CSS Labo 4_bestanden/Resize.png" height="85" width="605"/>
+<p>Na resize:</p>
+    <img alt="resize" src="CSS Labo 4_bestanden/Resize1.png" height="158" width="362"/>
+<h4>Opdracht 3</h4>
+<ul>
+    <li>Waarom staat de tekst in de blokken horizontaal gecentreerd?<br>
+    Dit komt door de text-align style.</li>
+</ul>
+    <img alt="text-align" src="CSS Labo 4_bestanden/text align.png" height="154" width="519"/>
+<ul>
+    <li>Ga na dat een property vertical‐align:center geen effect heeft. Waarom eigenlijk niet?<br>
+    </li>
+</ul>
+<img alt="Vert align center" src="CSS Labo 4_bestanden/Vert align center.png" height="120" width="422"/><br>
+<img alt="vert align center" src="CSS Labo 4_bestanden/vert align center sie.png" height="257" width="424"/><br>
+<p>Heeft geen effect want 'Display' heeft voorrang.</p>
+<ul>
+    <li>Ga na dat vertical‐align:middle er niet voor zorgt dat de tekst verticaal gecentreerd wordt. Wat
+    doet vertical‐align dan wel?<br>
+    </li>
+</ul>
+    <img alt="vert align" src="CSS Labo 4_bestanden/Vertical align.png" height="129" width="453"/><br>
+    <img alt="vert align site" src="CSS Labo 4_bestanden/Vertical align site.png" height="194" width="470"/><br>
+    <img alt="vert position img" src="CSS Labo 4_bestanden/Vertically position an image.png" height="34" width="449"/>
+<p>Vertical-align wordt gebruikt om een de verticale positie van een foto aan te passen in een tekstlijn.</p>
+<h5>Zoek op op GOOGLE:</h5>
+<ul>
+    <li>Wat is de ‘simpele’ manier om een één enkele regel tekst verticaal te centreren?</li>
+</ul>
+<img alt="1regel centreren" src="CSS Labo 4_bestanden/1 regel centreren.png" height="145" width="605"/>
+<p>Een voorbeeld:<br>
+    <br>
+.parent-element {<br>
+height: 200px;<br>
+}<br>
+
+.element {<br>
+line-height: 200px;<br>
+}<br>
+</p>
+<ul>
+    <li>Welke truc wordt vaak gebruikt om meerdere regels verticaal te centreren?</li>
+</ul>
+<p> Een voorbeeld: <br>
+    <br>
+DIV.container {<br>
+min-height: 10em;<br>
+display: table-cell;<br>
+vertical-align: middle }
+</p>
+<ul>
+    <li>In 'styles.css' staan twee verschillende CSS regels die de height instellen van een element met
+        class="area tall". Waarom krijgt de regel voor class 'tall' voorrang?<br>
+        <br>
+        Omdat deze bij 'tall' groter is dan de andere, namelijk 150px i.p.v. 100px.
+    </li>
+</ul>
+<h4>Opdracht 4</h4>
+<h5>Geef elementen 09, 12 en 14 de 'floaty' class.</h5>
+<ul>
+    <li>Ga na dat de floaty elementen naar links verplaatst werden 'in hun regel'.<br>
+    Ja, ook worden ze in het groen geplaatst.</li> </ul> <img alt="floaty" src="Labo 4 foto's CSS/Floaty.png" height="187" width="605"/>
+<ul>
+    <li>Ga na dat er geen grote ruimte achterblijft tussen elementen 08 en 10 waar element 09 stond. <br>
+    Zoals je ziet in de foto hierboven, er is geen witruimte op de plaatsen waar 09, 12 of 14 stonden.</li>
+</ul>
+<ul>
+    <li>Ga na dat 12 en 14 niet altijd netjes naast elkaar staan, het hangt er maar vanaf of ze in dezelfde regel staan.<br>
+    </li>
+</ul>
+<ul>
+    <li>Ga na dat er geen kleine ruimte is tussen de groene floaty elementen en het rode element rechts
+        ernaast, maar wel tussen de rode elementen onderling.<br>
+        Wanneer we dichterbij kijken zien we dat er geen ruimte tussen de groene elementen, maar wel tussen de rode onderling is.</li>
+</ul>
+    <img alt="Tussenruimte" src="Labo 4 foto's CSS/Tussenruimte.png" height="249" width="605"/>
+<h5>Geef element 17 de 'break' class.</h5>
+<ul>
+    <li>Ga na dat dit helemaal geen invloed heeft qua positionering, er wordt niks 'gecleared'.<br>
+    Element 17 wordt blauw gekleurd en neemt een hele regel in beslag, qua positionering wordt er niks aangepast.</li>
+</ul>
+    <img alt="element 17" src="Labo 4 foto's CSS/element 17.png" height="150" width="689"/></body>
+<h4>Opdracht 5</h4>
+<h5>Open 'voorbeeld4.html' in de browser.</h5>
+<ul>
+    <li>Resize het browser venster (horizontaal). Ga na dat er naast
+        element 09, 2 'regels' van blokken geplaatst worden als het venster breed genoeg is.<br>
+    Correct, er worden twee regels gevormd.</li>
+</ul>
+<img alt="resize" src="Labo 4 foto's CSS/Resize voorbeeld 4.png" height="354" width="514"/>
+<ul>
+    <li>Geef element 13 de 'break' class. Resize je browser opnieuw. Ga na dat element 13 altijd op een
+        nieuwe 'regel' begint en wel lager dan element 09.<br>
+    Of je nu resized of niet, wanneer de class 'break' ingevoerd is, zal het betreffende element (hier 13) telkens op een nieuwe regel beginnen, maar nog steeds op dezelfde positie, dus 13 blijft onder 9.</li>
+</ul>
+    <img alt="13 resize" src="Labo 4 foto's CSS/element 13 resize.png" height="380" width="605"/>
+    <img alt="13 normal" src="Labo 4 foto's CSS/element 13 normaal.png" height="157" width="605"/>
+<h4>Opdracht Lorem Ipsum</h4>
+<a href="Opdracht%20Lorem%20Ipsum%20Labo%204.html"> Opdracht Lorem Ipsum CSS Labo 4</a>
+</html>
