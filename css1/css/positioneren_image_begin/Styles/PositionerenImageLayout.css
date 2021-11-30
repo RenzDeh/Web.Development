@@ -1,0 +1,38 @@
+.floatLeft {
+    float: left;
+    height: 180px;
+    width: 180px;
+    margin: 0 10px 10px 0;
+}
+
+h2 {
+    font-size: 35px;
+    font-family: Arial, serif;
+    font-weight: bold;
+    margin-top: 10px;
+}
+
+body {
+    width: 1200px;
+    margin-right: 10px;
+    margin-left: 10px;
+}
+
+.floatRight {
+    float: right;
+    height: 180px;
+    width: 180px;
+    margin: 0 10px 10px 0;
+}
+
+article {
+    margin-top: 10px;
+    padding-bottom: 40px;
+    width: 700px;
+    font-family: Verdana, serif;
+    font-size: 1.25em;
+    border: 1px solid black;
+    padding-left: 10px;
+}
+
+
