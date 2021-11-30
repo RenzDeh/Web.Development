@@ -5,10 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="05774266-2533-4781-9032-cf2a1d7886fd" name="Changes" comment="Upload">
-      <change afterPath="$PROJECT_DIR$/css1/css/airbusLayout.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css1/css/positioneren_image_begin/Styles/PositionerenImageLayout.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css1/css/NatureBlogLayout.css" beforeDir="false" afterPath="$PROJECT_DIR$/css1/css/NatureBlogLayout.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -99,7 +96,9 @@
       <workItem from="1638022202960" duration="494000" />
       <workItem from="1638274223271" duration="1873000" />
       <workItem from="1638278741416" duration="10309000" />
-      <workItem from="1638292039310" duration="3313000" />
+      <workItem from="1638292039310" duration="3567000" />
+      <workItem from="1638302783706" duration="236000" />
+      <workItem from="1638310665108" duration="2000" />
     </task>
     <task id="LOCAL-00001" summary="Upload">
       <created>1636214057513</created>
@@ -248,7 +247,14 @@
       <option name="project" value="LOCAL" />
       <updated>1637521029104</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="Upload">
+      <created>1638302579787</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1638302579787</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
