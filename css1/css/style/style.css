@@ -1,0 +1,43 @@
+.col {
+    background: lightgray;
+    width: 200px;
+    height: 200px;
+    display:block;
+    margin:10px;
+}
+
+.col-5 {
+    background: #999999;
+    width: 200px;
+    height: 200px;
+    display:block;
+    margin:10px;
+}
+
+.col-3 {
+    background: #999999;
+    width: 200px;
+    height: 200px;
+    display:block;
+    margin:10px;
+}
+
+.col-6 {
+    background: #999999;
+    width: 200px;
+    height: 200px;
+    display:block;
+    margin:10px;
+}
+
+.col-7 {
+    background: #999999;
+    width: 200px;
+    height: 200px;
+    display:block;
+    margin:10px;
+}
+
+#lightgray {
+    background: lightgray;
+}
