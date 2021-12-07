@@ -5,7 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="05774266-2533-4781-9032-cf2a1d7886fd" name="Changes" comment="Upload">
+      <change afterPath="$PROJECT_DIR$/css1/css/Oef2Bootstrap.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css1/css/oef1.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css1/css/style/styleOef2.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/css1/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,9 +63,20 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\rdehe\OneDrive\Documenten\GitHub\Web.Development\css1\css\style" />
       <recent name="C:\Users\rdehe\OneDrive\Documenten\GitHub\Web.Development\css1\css" />
       <recent name="C:\Users\rdehe\OneDrive\Documenten\GitHub\Web.Development\css1\css\CSS Labo 1_bestanden" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="beginBootstrap.htm" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Web.Development/css1/css/beginBootstrap.htm" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.beginBootstrap.htm" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -99,6 +115,7 @@
       <workItem from="1638292039310" duration="3567000" />
       <workItem from="1638302783706" duration="236000" />
       <workItem from="1638310665108" duration="2000" />
+      <workItem from="1638881075659" duration="6533000" />
     </task>
     <task id="LOCAL-00001" summary="Upload">
       <created>1636214057513</created>

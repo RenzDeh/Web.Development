@@ -1,0 +1,149 @@
+
+body {
+    font: 1.2em/1.2 Helvetica, aria, sans-serif;
+    margin: 0 3%;
+}
+
+h1 {
+    font-size: 1.8em;
+    margin: .9em 0 0 0;
+}
+h2 {
+    font-size: 1.5em;
+    margin: 1.5em 0 0 0;
+}
+
+img {
+    max-width: 100%;
+}
+
+figure {
+    background: black;
+    border-radius: 5px;
+    color: red;
+    margin: 0 0 25px 0;
+    padding: 10px;
+    text-align: center;
+
+}
+
+figcaption {
+    font-size: .8em;
+}
+
+@media only screen and (max-width: 768px)
+{
+    body {
+        font: 1.2em/1.2 Helvetica, aria, sans-serif;
+        margin: 0 3%;
+    }
+
+    figure {
+        background: black;
+        border-radius: 5px;
+        color: red;
+        margin: 0 25px 25px 0;
+        padding: 10px;
+        text-align: center;
+
+    }
+
+    img {
+        max-width: 100%;
+    }
+
+    h1 {
+        font-size: 1.8em;
+        margin: .9em 0 0 0;
+    }
+
+    h2 {
+        font-size: 1.5em;
+        margin: 1.5em 0 0 0;
+    }
+
+    figcaption {
+        font-size: .8em;
+    }
+
+}
+
+@media only screen and (min-width: 768px)
+{
+    body {
+        font: 1.2em/1.2 Helvetica, aria, sans-serif;
+        margin: 0 3%;
+        background-color: #8D99AE;
+    }
+
+    figure {
+        background: black;
+        border-radius: 1px;
+        color: red;
+        margin: 0 25px 25px 0;
+        padding: 10px;
+        text-align: justify;
+        float: left;
+        max-width: 40%;
+    }
+
+    img {
+        max-width: 100%;
+    }
+
+    h1 {
+        font-size: 1.8em;
+        margin: .9em 0 0 0;
+    }
+
+    h2 {
+        font-size: 1.5em;
+        margin: 1.5em 0 0 0;
+    }
+
+    figcaption {
+        font-size: .8em;
+    }
+
+}
+
+@media only screen and (min-width: 992px) {
+
+    body {
+        font: 1.2em/1.2 Helvetica, aria, sans-serif;
+        margin: 0 3%;
+        background-color: #85de86;
+    }
+
+    figure {
+        background: black;
+        border-radius: 5px;
+        color: red;
+        margin: 0 25px 25px 0;
+        padding: 10px;
+        text-align: justify;
+        float: left;
+        max-width: 25%;
+    }
+
+    img {
+        max-width: 100%;
+    }
+
+    h1 {
+        font-size: 1.8em;
+        margin: .9em 0 0 0;
+    }
+
+    h2 {
+        font-size: 1.5em;
+        margin: 1.5em 0 0 0;
+    }
+
+    figcaption {
+        font-size: .8em;
+    }
+}
+
+
+
