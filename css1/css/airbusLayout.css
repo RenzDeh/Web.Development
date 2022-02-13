@@ -99,12 +99,21 @@ span {
     float: left;
 }
 
-#gallery > .foto{
-    background-color: white;
-    width: 180px;
-    height: 180px;
-    border: 16px solid #999999;
-    float: left;
+.gallery {
+    clear:both;
+    background-color: #999999;
+    padding : 10px 0px 10px 10px;
+}
+
+.foto {
+    display:inline-block;
+    width: 200px;
+    height: 200px;
+    margin: 10px 10px;
+    background-color:white;
+    border: 1px dashed #999999; /* dashed = stippellijnen */
+}
+.foto>img {
     padding: 10px;
 }
 
@@ -135,6 +144,7 @@ a {
     background-color: #666666;
     width: 960px;
     height: 200px;
+    padding-bottom: 20px;
 }
 
 #copyright{
