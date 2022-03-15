@@ -5,18 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="05774266-2533-4781-9032-cf2a1d7886fd" name="Changes" comment="Upload">
-      <change afterPath="$PROJECT_DIR$/JavaScript/Oefening Arrays/Array Familieleden.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaScript/Oefening Arrays/Familieleden.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaScript/Oefening Arrays/Oefening 1 Arrays.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaScript/Oefening Arrays/Oefening 1 Arrays.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaScript/Oefening Arrays/Oefening 3 Arrays.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaScript/Oefening Arrays/Oefening 3,4,5 Arrays.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaScript/Oefening Arrays/Oefening 6 Arrays en Opdracht Kopieer.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaScript/Oefening Arrays/Oefening 6 Arrays.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaScript/Oefening Arrays/Opdracht substring.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaScript/Oefening Arrays/Opdracht substring.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaScript/Oefening Arrays/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaScript/Oefening Arrays/styles/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/Javascript deel 3/Colorpicker try 1/Colorpicker.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/Javascript deel 3/Colorpicker try 1/Opdracht colorpicker.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/Javascript deel 3/Colorpicker try 1/Opdracht colorpicker.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/Javascript deel 3/JavaScript paragrafen.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/Javascript deel 3/Opdracht paragrafen.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/Javascript deel 3/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/Javascript deel 3/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/JavaScript/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/JavaScript/index.html" afterDir="false" />
     </list>
@@ -28,9 +24,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="JavaScript File" />
         <option value="CSS File" />
         <option value="HTML File" />
-        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -73,11 +69,11 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\rdehe\OneDrive\Documenten\GitHub\Web.Development\JavaScript\Javascript deel 3" />
+      <recent name="C:\Users\rdehe\OneDrive\Documenten\GitHub\Web.Development\JavaScript\Javascript deel 3\Colorpicker try 1" />
       <recent name="C:\Users\rdehe\OneDrive\Documenten\GitHub\Web.Development\JavaScript\Oefening Arrays" />
       <recent name="C:\Users\rdehe\OneDrive\Documenten\GitHub\Web.Development\JavaScript\leeg project\Opdracht Leeg Project\scripts" />
       <recent name="C:\Users\rdehe\OneDrive\Documenten\GitHub\Web.Development\css1\css\style" />
-      <recent name="C:\Users\rdehe\OneDrive\Documenten\GitHub\Web.Development\css1\css" />
-      <recent name="C:\Users\rdehe\OneDrive\Documenten\GitHub\Web.Development\css1\css\CSS Labo 1_bestanden" />
     </key>
   </component>
   <component name="RunManager" selected="Node.js.Oefening 3 Arrays.js">
@@ -147,7 +143,13 @@
       <workItem from="1644998573502" duration="5065000" />
       <workItem from="1646131274697" duration="1552000" />
       <workItem from="1646138962259" duration="11177000" />
-      <workItem from="1646170387842" duration="2208000" />
+      <workItem from="1646170387842" duration="2838000" />
+      <workItem from="1646812369008" duration="10044000" />
+      <workItem from="1647271078134" duration="4484000" />
+      <workItem from="1647279587062" duration="3008000" />
+      <workItem from="1647284811846" duration="1948000" />
+      <workItem from="1647365388121" duration="2587000" />
+      <workItem from="1647369709990" duration="2416000" />
     </task>
     <task id="LOCAL-00001" summary="Upload">
       <created>1636214057513</created>
@@ -331,7 +333,14 @@
       <option name="project" value="LOCAL" />
       <updated>1644998733155</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="Upload">
+      <created>1646172767126</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1646172767126</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
