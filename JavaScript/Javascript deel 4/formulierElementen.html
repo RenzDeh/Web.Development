@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="nl">
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="formulierCSS.css">
+    <script type="text/javascript" charset="utf-8"
+            src="formulierJS.js"></script>
+    <title>formulierElementen</title>
+</head>
+<body>
+<form action="filename" method="post">
+    First name*:  <input type="text" name="FirstName" required placeholder="Your first name" ><br>
+    Last name*:  <input type="text" name="LastName" required placeholder="Your last name" ><br>
+    Which sport do you train?<br>
+    Running  <input type="checkbox" name="Running" value="I run" /><br>
+    Swimming  <input type="checkbox" name="Swimming" value="I swim"/><br>
+    Rowing  <input type="checkbox" name="Rowing" value="I row" /><br>
+    What is your gender?<br>
+    <input type="radio" name="data-id" value="waarde" />  Male <br>
+    <input type="radio" name="data-id" value="waarde" />  Female <br>
+    Favorite movie: <input type="text" name="FirstName"><br>
+    Favorite quote: <input type="text" name="FirstName"><br>
+    Password*: <input type="password" name="wachtwoord" required><br>
+    Favorite food:
+    <select name="food">
+        <option value="Spaghetti">Spaghetti </option>
+        <option value="Pizza">Pizza</option>
+        <option value="Fries">Fries</option>
+        <option value="Sausage">Sausage</option>
+        <option value="Pancake">Pancake</option>
+    </select><br>
+    <input type="file" name="knop" value="Kies bestand" /><br>
+    Email adress: <input type=”email” name=”txtEmail” placeholder="Enter your email adress"/><br>
+    Favorite site: <input type="url" name="txtUrl" placeholder="Enter the URL of your favorite site"><br>
+    Favorite number between 1-100: <input type="number" name="txtNumber" min="1" max="100"/><br>
+    Favorite number between 11-1000: <input type="range" name="txtRange" min="11" max="1000" /><br>
+    When were you born?
+    <input type="date" name="" placeholder="Dag/Maand/Jaar" /><br>
+    Belgium zip-code reg number*: <input type="text" name="zip-code" size="4" maxlength="4" required placeholder="9999"/><br>
+    Search for something: <input type="search" name="searchsomething"><br>
+    What is your favorite color? <input type="color">  <br>
+    <input type="submit" value="Submit" />
+
+</form>
+
+
+</body>
+</html>

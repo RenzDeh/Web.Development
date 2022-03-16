@@ -4,7 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="05774266-2533-4781-9032-cf2a1d7886fd" name="Changes" comment="Upload" />
+    <list default="true" id="05774266-2533-4781-9032-cf2a1d7886fd" name="Changes" comment="Upload">
+      <change afterPath="$PROJECT_DIR$/JavaScript/Javascript deel 4/formulierCSS.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/Javascript deel 4/formulierElementen.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/Javascript deel 4/formulierJS.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/Javascript deel 4/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaScript/Javascript deel 3/StyleColorpicker.css" beforeDir="false" afterPath="$PROJECT_DIR$/JavaScript/Javascript deel 3/StyleColorpicker.css" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,9 +20,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JavaScript File" />
-        <option value="CSS File" />
         <option value="HTML File" />
+        <option value="CSS File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -46,7 +53,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/JavaScript/Javascript deel 4" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -140,6 +147,7 @@
       <workItem from="1647365388121" duration="2587000" />
       <workItem from="1647369709990" duration="2416000" />
       <workItem from="1647372165434" duration="23000" />
+      <workItem from="1647419055519" duration="4696000" />
     </task>
     <task id="LOCAL-00001" summary="Upload">
       <created>1636214057513</created>
