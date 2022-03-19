@@ -5,12 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="05774266-2533-4781-9032-cf2a1d7886fd" name="Changes" comment="Upload">
-      <change afterPath="$PROJECT_DIR$/JavaScript/Javascript deel 4/formulierCSS.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaScript/Javascript deel 4/formulierElementen.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaScript/Javascript deel 4/formulierJS.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaScript/Javascript deel 4/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/Javascript deel 4/SpatiesOpConsole.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaScript/Javascript deel 3/StyleColorpicker.css" beforeDir="false" afterPath="$PROJECT_DIR$/JavaScript/Javascript deel 3/StyleColorpicker.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaScript/Javascript deel 4/SpatiesOpConsole.html" beforeDir="false" afterPath="$PROJECT_DIR$/JavaScript/Javascript deel 4/SpatiesOpConsole.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaScript/Javascript deel 4/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/JavaScript/Javascript deel 4/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,8 +18,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="CSS File" />
+        <option value="HTML File" />
         <option value="JavaScript File" />
       </list>
     </option>
@@ -64,6 +62,9 @@
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\rdehe\OneDrive\Documenten\GitHub\Web.Development\JavaScript\Javascript deel 4" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\rdehe\OneDrive\Documenten\GitHub\Web.Development\JavaScript\Javascript deel 3" />
       <recent name="C:\Users\rdehe\OneDrive\Documenten\GitHub\Web.Development\JavaScript\Javascript deel 3\Colorpicker try 1" />
@@ -147,7 +148,8 @@
       <workItem from="1647365388121" duration="2587000" />
       <workItem from="1647369709990" duration="2416000" />
       <workItem from="1647372165434" duration="23000" />
-      <workItem from="1647419055519" duration="4696000" />
+      <workItem from="1647419055519" duration="8652000" />
+      <workItem from="1647687483927" duration="906000" />
     </task>
     <task id="LOCAL-00001" summary="Upload">
       <created>1636214057513</created>
@@ -345,7 +347,14 @@
       <option name="project" value="LOCAL" />
       <updated>1647372178016</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="Upload">
+      <created>1647424024668</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1647424024668</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
