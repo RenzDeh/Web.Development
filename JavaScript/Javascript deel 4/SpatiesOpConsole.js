@@ -15,7 +15,7 @@ const setup = () => {
 
     const naarSpatie = (txtInput) => {
         let metSpatie = "";
-        for (i = 0; i < txtInput.length; i++) {
+        for (let i = 0; i < txtInput.length; i++) {
             metSpatie += txtInput.charAt(i)
             metSpatie+= " ";
         }
