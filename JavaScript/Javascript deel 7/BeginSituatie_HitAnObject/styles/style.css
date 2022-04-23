@@ -1,0 +1,46 @@
+html, body {
+    margin-left: 10px;
+}
+
+#playField {
+
+    border:solid 1px black;
+    box-sizing:border-box;
+    height: 800px;
+    width: 600px;
+
+    // aanvullen met hoogte en breedte
+}
+
+img {
+    margin-left: 15px;
+    position: absolute;
+}
+
+button {
+    float: left;
+    margin: 15px;
+    font-size: 25px;
+}
+
+.score > div {
+    display: inline-block;
+}
+
+.hiddenButton {
+    display: none;
+}
+
+.unselectable {
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    user-select: none;
+}
+
+p {
+    margin-top: 20px;
+    margin-left: 25px;
+    font-size: 25px;
+    font-family: Arial, serif;
+    font-weight: bold;
+}
