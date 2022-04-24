@@ -5,16 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="05774266-2533-4781-9032-cf2a1d7886fd" name="Changes" comment="Upload">
-      <change afterPath="$PROJECT_DIR$/JavaScript/Javascript deel 6/Dom Tree Nodes.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaScript/Javascript deel 6/Dom Tree Nodes.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaScript/Javascript deel 6/Opdracht 1 (extra oef).html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaScript/Javascript deel 6/Opdracht 1 (extra oef).js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaScript/Javascript deel 6/Opdracht 2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaScript/Javascript deel 6/Opdracht 2.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaScript/Javascript deel 7/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaScript/Javascript deel 5/Gemeente.html" beforeDir="false" afterPath="$PROJECT_DIR$/JavaScript/Javascript deel 5/Gemeente.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaScript/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/JavaScript/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaScript/Javascript deel 7/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/JavaScript/Javascript deel 7/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -167,6 +159,7 @@
       <workItem from="1648625601051" duration="6810000" />
       <workItem from="1650438776890" duration="6322000" />
       <workItem from="1650713095784" duration="4744000" />
+      <workItem from="1650791119887" duration="750000" />
     </task>
     <task id="LOCAL-00001" summary="Upload">
       <created>1636214057513</created>
